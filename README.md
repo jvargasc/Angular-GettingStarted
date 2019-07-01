@@ -1,4 +1,7 @@
-[![Build Status](https://dev.azure.com/jvargasc/Angular%20-%20Getting%20Started/_apis/build/status/Angular-Getting%20Started-CI?branchName=master)](https://dev.azure.com/jvargasc/Angular%20-%20Getting%20Started/_build/latest?definitionId=38&branchName=master)
+| Project | Build status | Deployment status |
+|---------|--------------|---------------|
+|Acme Product Management - Client| <img src="https://jvargasc.visualstudio.com/Angular%20-%20Getting%20Started/_apis/build/status/Angular-Getting%20Started-Client-CI?branchName=master"> | <img src=https://jvargasc.vsrm.visualstudio.com/_apis/public/Release/badge/3e325bcb-2be8-4e15-8254-9b38485ee283/17/17/>
+|Acme Product Management - API| <img src="https://jvargasc.visualstudio.com/Angular%20-%20Getting%20Started/_apis/build/status/Angular-Getting%20Started-API-CI?branchName=master"> | <img src=https://jvargasc.vsrm.visualstudio.com/_apis/public/Release/badge/3e325bcb-2be8-4e15-8254-9b38485ee283/18/18>
 
 # Angular-Getting Started
 Materials for the ["Angular: Getting Started"](http://bit.ly/Angular-GettingStarted) course on Pluralsight.
